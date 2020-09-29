@@ -1,0 +1,6 @@
+SELECT
+    Id, ActualCost, BudgetedCost, CampaignMemberRecordTypeId, Description,
+    EndDate, ExpectedResponse, ExpectedRevenue, IsActive, Name, NumberSent,
+    OwnerId, ParentId, StartDate, Status, Type
+FROM Campaign
+ORDER BY Name ASC

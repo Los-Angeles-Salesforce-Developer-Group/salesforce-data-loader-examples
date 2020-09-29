@@ -1,0 +1,10 @@
+SELECT
+    Id, AnnualRevenue, City, CleanStatus, Company, CompanyDunsNumber, Country,
+    CurrentGenerators__c, DandBCompanyId, Description, Email, Fax, FirstName,
+    GeocodeAccuracy, IndividualId, Industry, IsConverted, IsUnreadByOwner,
+    Jigsaw, LastName, Latitude, LeadSource, Longitude, MobilePhone, NumberOfEmployees,
+    NumberOfLocations__c, OwnerId, Phone, PostalCode, Primary__c, ProductInterest__c,
+    Rating, Salutation, SicCode__c, State, Status, Street, Title, Website
+FROM Lead
+ORDER BY LastName  ASC,
+         FirstName ASC

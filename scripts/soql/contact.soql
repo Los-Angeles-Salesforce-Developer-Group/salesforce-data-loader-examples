@@ -1,0 +1,11 @@
+SELECT
+    Id, AccountId, AssistantName, AssistantPhone, Birthdate, CleanStatus, Department,
+    Description, Email, EmailBouncedDate, EmailBouncedReason, Fax, FirstName, HomePhone,
+    IndividualId, Jigsaw, Languages__c, LastName, LeadSource, Level__c, MailingCity, MailingCountry,
+    MailingGeocodeAccuracy, MailingLatitude, MailingLongitude, MailingPostalCode, MailingState,
+    MailingStreet, MobilePhone, OtherCity, OtherCountry, OtherGeocodeAccuracy, OtherLatitude,
+    OtherLongitude, OtherPhone, OtherPostalCode, OtherState, OtherStreet, OwnerId, Phone, ReportsToId,
+    Salutation, Title
+FROM Contact
+ORDER BY LastName ASC,
+         FirstName ASC

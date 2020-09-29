@@ -1,0 +1,441 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef1"
+            },
+            "Subject": "Cannot start generator after electrical failure",
+            "EngineeringReqNumber__c": "526714",
+            "IsEscalated": false,
+            "Origin": "Phone",
+            "PotentialLiability__c": "No",
+            "Priority": "Medium",
+            "Product__c": "GC1040",
+            "Reason": "Equipment Complexity",
+            "SLAViolation__c": "No",
+            "Status": "Closed",
+            "Type": "Electrical"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef2"
+            },
+            "Subject": "Customer service for portable generators needs beefing up",
+            "IsEscalated": false,
+            "Origin": "Web",
+            "PotentialLiability__c": "No",
+            "Priority": "Low",
+            "Product__c": "GC1020",
+            "Reason": "Feedback",
+            "SLAViolation__c": "No",
+            "Status": "Closed",
+            "Type": "Other"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef3"
+            },
+            "Subject": "Delay in installation; spare parts unavailable",
+            "IsEscalated": false,
+            "Origin": "Phone",
+            "PotentialLiability__c": "Yes",
+            "Priority": "High",
+            "Product__c": "GC3020",
+            "Reason": "Installation",
+            "SLAViolation__c": "No",
+            "Status": "Closed",
+            "Type": "Other"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef4"
+            },
+            "Subject": "Design issue with mechanical rotor",
+            "EngineeringReqNumber__c": "868314",
+            "IsEscalated": false,
+            "Origin": "Web",
+            "PotentialLiability__c": "No",
+            "Priority": "Low",
+            "Product__c": "GC3040",
+            "Reason": "Equipment Design",
+            "SLAViolation__c": "No",
+            "Status": "New",
+            "Type": "Mechanical"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef5"
+            },
+            "Subject": "Easy installation process",
+            "IsEscalated": false,
+            "Origin": "Web",
+            "PotentialLiability__c": "No",
+            "Priority": "Low",
+            "Product__c": "GC1020",
+            "Reason": "Installation",
+            "SLAViolation__c": "No",
+            "Status": "Closed",
+            "Type": "Other"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef6"
+            },
+            "Subject": "Electric surge damaging adjacent equipment",
+            "EngineeringReqNumber__c": "265794",
+            "IsEscalated": false,
+            "Origin": "Phone",
+            "PotentialLiability__c": "No",
+            "Priority": "High",
+            "Product__c": "GC5060",
+            "Reason": "Other",
+            "SLAViolation__c": "No",
+            "Status": "Closed",
+            "Type": "Electrical"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef7"
+            },
+            "Subject": "Electrical circuit malfunctioning",
+            "EngineeringReqNumber__c": "653780",
+            "IsEscalated": false,
+            "Origin": "Phone",
+            "PotentialLiability__c": "Yes",
+            "Priority": "Medium",
+            "Product__c": "GC1060",
+            "Reason": "Performance",
+            "SLAViolation__c": "No",
+            "Status": "Closed",
+            "Type": "Electrical"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef8"
+            },
+            "Subject": "Electronic panel fitting loose",
+            "EngineeringReqNumber__c": "965884",
+            "IsEscalated": false,
+            "Origin": "Web",
+            "PotentialLiability__c": "No",
+            "Priority": "Medium",
+            "Product__c": "GC3020",
+            "Reason": "Equipment Design",
+            "SLAViolation__c": "No",
+            "Status": "Closed",
+            "Type": "Electronic"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef9"
+            },
+            "Subject": "Frequent mechanical breakdown",
+            "EngineeringReqNumber__c": "354982",
+            "IsEscalated": false,
+            "Origin": "Web",
+            "PotentialLiability__c": "Yes",
+            "Priority": "Medium",
+            "Product__c": "GC3060",
+            "Reason": "Breakdown",
+            "SLAViolation__c": "No",
+            "Status": "Closed",
+            "Type": "Mechanical"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef10"
+            },
+            "Subject": "Generator assembly instructions unclear",
+            "EngineeringReqNumber__c": "253574",
+            "IsEscalated": false,
+            "Origin": "Phone",
+            "PotentialLiability__c": "No",
+            "Priority": "Low",
+            "Product__c": "GC1020",
+            "Reason": "Feedback",
+            "SLAViolation__c": "No",
+            "Status": "Closed",
+            "Type": "Other"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef11"
+            },
+            "Subject": "Generator GC3060 platform structure is weakening",
+            "EngineeringReqNumber__c": "435143",
+            "IsEscalated": false,
+            "Origin": "Phone",
+            "PotentialLiability__c": "Yes",
+            "Priority": "High",
+            "Product__c": "GC3060",
+            "Reason": "Installation",
+            "Status": "Closed",
+            "Type": "Structural"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef12"
+            },
+            "Subject": "Maintenance guidelines for generator unclear",
+            "EngineeringReqNumber__c": "784532",
+            "IsEscalated": false,
+            "Origin": "Phone",
+            "PotentialLiability__c": "No",
+            "Priority": "Medium",
+            "Product__c": "GC5020",
+            "Reason": "Other",
+            "SLAViolation__c": "No",
+            "Status": "Closed",
+            "Type": "Other"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef13"
+            },
+            "Subject": "Maintenance guidelines for generator unclear",
+            "EngineeringReqNumber__c": "651375",
+            "IsEscalated": false,
+            "Origin": "Web",
+            "PotentialLiability__c": "No",
+            "Priority": "Low",
+            "Product__c": "GC5020",
+            "Reason": "Feedback",
+            "SLAViolation__c": "No",
+            "Status": "New",
+            "Type": "Other"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef14"
+            },
+            "Subject": "Maintenance guidelines for generator unclear",
+            "EngineeringReqNumber__c": "658733",
+            "IsEscalated": false,
+            "Origin": "Web",
+            "PotentialLiability__c": "No",
+            "Priority": "Low",
+            "Product__c": "GC1060",
+            "Reason": "Feedback",
+            "SLAViolation__c": "No",
+            "Status": "Closed",
+            "Type": "Other"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef15"
+            },
+            "Subject": "Mechanical maintenance guidelines for generator misleading",
+            "EngineeringReqNumber__c": "365782",
+            "IsEscalated": false,
+            "Origin": "Phone",
+            "PotentialLiability__c": "Yes",
+            "Priority": "Medium",
+            "Product__c": "GC3040",
+            "Reason": "Other",
+            "SLAViolation__c": "No",
+            "Status": "Closed",
+            "Type": "Mechanical"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef16"
+            },
+            "Subject": "Motor design hindering performance",
+            "EngineeringReqNumber__c": "572546",
+            "IsEscalated": false,
+            "Origin": "Phone",
+            "PotentialLiability__c": "No",
+            "Priority": "Medium",
+            "Product__c": "GC5040",
+            "Reason": "Equipment Design",
+            "SLAViolation__c": "No",
+            "Status": "Closed",
+            "Type": "Electrical"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef17"
+            },
+            "Subject": "Performance inadequate for second consecutive week",
+            "EngineeringReqNumber__c": "767145",
+            "IsEscalated": false,
+            "Origin": "Phone",
+            "PotentialLiability__c": "Yes",
+            "Priority": "High",
+            "Product__c": "GC1060",
+            "Reason": "Performance",
+            "SLAViolation__c": "Yes",
+            "Status": "Closed",
+            "Type": "Electrical"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef18"
+            },
+            "Subject": "Power generation below stated level",
+            "EngineeringReqNumber__c": "237645",
+            "IsEscalated": false,
+            "Origin": "Phone",
+            "PotentialLiability__c": "Yes",
+            "Priority": "Medium",
+            "Product__c": "GC3060",
+            "Reason": "Performance",
+            "SLAViolation__c": "No",
+            "Status": "Closed",
+            "Type": "Electrical"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef19"
+            },
+            "Subject": "Repeated motor breakdown while shutting off",
+            "EngineeringReqNumber__c": "347209",
+            "IsEscalated": false,
+            "Origin": "Web",
+            "PotentialLiability__c": "Yes",
+            "Priority": "Medium",
+            "Product__c": "GC1020",
+            "Reason": "Breakdown",
+            "SLAViolation__c": "Yes",
+            "Status": "Closed",
+            "Type": "Electrical"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef20"
+            },
+            "Subject": "Seeking guidance on electrical wiring installation for GC5060",
+            "IsEscalated": false,
+            "Origin": "Web",
+            "PotentialLiability__c": "No",
+            "Priority": "Low",
+            "Product__c": "GC3060",
+            "Reason": "Installation",
+            "SLAViolation__c": "No",
+            "Status": "New",
+            "Type": "Electrical"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef21"
+            },
+            "Subject": "Shutting down of generator",
+            "EngineeringReqNumber__c": "736734",
+            "IsEscalated": false,
+            "Origin": "Web",
+            "PotentialLiability__c": "No",
+            "Priority": "Medium",
+            "Product__c": "GC1040",
+            "Reason": "Equipment Complexity",
+            "SLAViolation__c": "No",
+            "Status": "Closed",
+            "Type": "Mechanical"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef22"
+            },
+            "Subject": "Signal panel on GC5060 blinks intermittently",
+            "EngineeringReqNumber__c": "456345",
+            "IsEscalated": false,
+            "Origin": "Web",
+            "PotentialLiability__c": "No",
+            "Priority": "Medium",
+            "Product__c": "GC5060",
+            "Reason": "Performance",
+            "SLAViolation__c": "No",
+            "Status": "Closed",
+            "Type": "Electronic"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef23"
+            },
+            "Subject": "Starting generator after electrical failure",
+            "EngineeringReqNumber__c": "765876",
+            "IsEscalated": false,
+            "Origin": "Phone",
+            "PotentialLiability__c": "No",
+            "Priority": "High",
+            "Product__c": "GC5040",
+            "Reason": "Equipment Complexity",
+            "SLAViolation__c": "No",
+            "Status": "Closed",
+            "Type": "Electrical"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef24"
+            },
+            "Subject": "Starting up generator consumes excessive power",
+            "EngineeringReqNumber__c": "654623",
+            "IsEscalated": false,
+            "Origin": "Web",
+            "PotentialLiability__c": "No",
+            "Priority": "Medium",
+            "Product__c": "GC5020",
+            "Reason": "Equipment Design",
+            "SLAViolation__c": "No",
+            "Status": "Closed",
+            "Type": "Other"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef25"
+            },
+            "Subject": "Structural breakdown of rotor assembly",
+            "EngineeringReqNumber__c": "835735",
+            "IsEscalated": false,
+            "Origin": "Phone",
+            "PotentialLiability__c": "No",
+            "Priority": "Medium",
+            "Product__c": "GC1040",
+            "Reason": "Breakdown",
+            "SLAViolation__c": "No",
+            "Status": "Closed",
+            "Type": "Structural"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef26"
+            },
+            "Subject": "Structural failure of generator base",
+            "EngineeringReqNumber__c": "636265",
+            "IsEscalated": false,
+            "Origin": "Web",
+            "PotentialLiability__c": "Yes",
+            "Priority": "High",
+            "Product__c": "GC5060",
+            "Reason": "Equipment Design",
+            "SLAViolation__c": "No",
+            "Status": "Closed",
+            "Type": "Structural"
+        }
+    ]
+}

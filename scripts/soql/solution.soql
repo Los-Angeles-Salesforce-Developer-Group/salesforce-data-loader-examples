@@ -1,0 +1,4 @@
+SELECT
+    Id, IsPublished, IsPublishedInPublicKb, OwnerId, SolutionName, SolutionNote, Status
+FROM Solution
+ORDER BY SolutionName ASC

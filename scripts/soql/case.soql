@@ -1,0 +1,7 @@
+SELECT
+    Id, Subject, AccountId, AssetId, Comments, ContactId, Description, EngineeringReqNumber__c,
+    IsEscalated, Origin, OwnerId, ParentId, PotentialLiability__c, Priority, Product__c,
+    Reason, SlaViolation__c, Status, SuppliedCompany, SuppliedEmail, SuppliedName, SuppliedPhone,
+    Type
+FROM Case
+ORDER BY Subject ASC

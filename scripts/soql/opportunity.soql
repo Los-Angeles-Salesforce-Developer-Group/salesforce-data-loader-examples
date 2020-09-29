@@ -1,0 +1,8 @@
+SELECT
+    Id, AccountId, Amount, CampaignId, CloseDate, ContactId, CurrentGenerators__c,
+    DeliveryInstallationStatus__c, Description, ForecastCategoryName, IsPrivate,
+    LeadSource, MainCompetitors__c, Name, NextStep, OrderNumber__c, OwnerId,
+    Pricebook2Id, Probability, StageName, TotalOpportunityQuantity, TrackingNumber__c,
+    Type
+FROM Opportunity
+ORDER BY Name ASC

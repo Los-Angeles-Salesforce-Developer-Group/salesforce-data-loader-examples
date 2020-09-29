@@ -1,0 +1,544 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef1"
+            },
+            "Amount": 235000,
+            "CloseDate": "2018-09-06",
+            "CurrentGenerators__c": "John Deere",
+            "DeliveryInstallationStatus__c": "Yet to begin",
+            "ForecastCategoryName": "Closed",
+            "IsPrivate": false,
+            "LeadSource": "Web",
+            "MainCompetitors__c": "John Deere",
+            "Name": "Burlington Textiles Weaving Plant Generator",
+            "OrderNumber__c": "645612",
+            "Probability": 100,
+            "StageName": "Closed Won",
+            "TrackingNumber__c": "830150301360",
+            "Type": "New Customer"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef2"
+            },
+            "Amount": 15000,
+            "CloseDate": "2018-09-06",
+            "ForecastCategoryName": "Pipeline",
+            "IsPrivate": false,
+            "LeadSource": "Purchased List",
+            "MainCompetitors__c": "Honda",
+            "Name": "Dickenson Mobile Generators",
+            "Probability": 10,
+            "StageName": "Qualification",
+            "Type": "New Customer"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef3"
+            },
+            "Amount": 35000,
+            "CloseDate": "2018-09-06",
+            "ForecastCategoryName": "Pipeline",
+            "IsPrivate": false,
+            "MainCompetitors__c": "John Deere, Mitsubishi, Hawkpower",
+            "Name": "Edge Emergency Generator",
+            "Probability": 60,
+            "StageName": "Id. Decision Makers",
+            "Type": "Existing Customer - Replacement"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef4"
+            },
+            "Amount": 75000,
+            "CloseDate": "2018-09-06",
+            "CurrentGenerators__c": "John Deere",
+            "DeliveryInstallationStatus__c": "Completed",
+            "ForecastCategoryName": "Closed",
+            "IsPrivate": false,
+            "LeadSource": "Word of mouth",
+            "MainCompetitors__c": "John Deere",
+            "Name": "Edge Emergency Generator",
+            "OrderNumber__c": "731645",
+            "Probability": 100,
+            "StageName": "Closed Won",
+            "TrackingNumber__c": "830150301420",
+            "Type": "New Customer"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef5"
+            },
+            "Amount": 50000,
+            "CloseDate": "2018-09-06",
+            "DeliveryInstallationStatus__c": "Completed",
+            "ForecastCategoryName": "Closed",
+            "IsPrivate": false,
+            "LeadSource": "Word of mouth",
+            "Name": "Edge Installation",
+            "OrderNumber__c": "835178",
+            "Probability": 100,
+            "StageName": "Closed Won",
+            "Type": "Existing Customer - Upgrade"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef6"
+            },
+            "Amount": 60000,
+            "CloseDate": "2018-09-06",
+            "ForecastCategoryName": "Closed",
+            "IsPrivate": false,
+            "LeadSource": "Word of mouth",
+            "Name": "Edge SLA",
+            "OrderNumber__c": "847564",
+            "Probability": 100,
+            "StageName": "Closed Won",
+            "Type": "Existing Customer - Upgrade"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef7"
+            },
+            "Amount": 80000,
+            "CloseDate": "2018-09-06",
+            "CurrentGenerators__c": "Fujitsu",
+            "DeliveryInstallationStatus__c": "Yet to begin",
+            "ForecastCategoryName": "Pipeline",
+            "IsPrivate": false,
+            "LeadSource": "External Referral",
+            "MainCompetitors__c": "Honda",
+            "Name": "Express Logistics Portable Truck Generators",
+            "Probability": 50,
+            "StageName": "Value Proposition",
+            "Type": "Existing Customer - Upgrade"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef8"
+            },
+            "Amount": 120000,
+            "CloseDate": "2018-09-06",
+            "DeliveryInstallationStatus__c": "In progress",
+            "ForecastCategoryName": "Pipeline",
+            "IsPrivate": false,
+            "LeadSource": "External Referral",
+            "Name": "Express Logistics SLA",
+            "Probability": 70,
+            "StageName": "Perception Analysis",
+            "Type": "Existing Customer - Upgrade"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef9"
+            },
+            "Amount": 220000,
+            "CloseDate": "2018-09-06",
+            "CurrentGenerators__c": "Hawkpower",
+            "ForecastCategoryName": "Closed",
+            "IsPrivate": false,
+            "LeadSource": "Trade Show",
+            "MainCompetitors__c": "Fujitsu",
+            "Name": "Express Logistics Standby Generator",
+            "OrderNumber__c": "653276",
+            "Probability": 100,
+            "StageName": "Closed Won",
+            "TrackingNumber__c": "830150301420",
+            "Type": "New Customer"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef10"
+            },
+            "Amount": 60000,
+            "CloseDate": "2018-09-06",
+            "CurrentGenerators__c": "Hawkpower, Fujitsu",
+            "DeliveryInstallationStatus__c": "Yet to begin",
+            "ForecastCategoryName": "Pipeline",
+            "IsPrivate": false,
+            "MainCompetitors__c": "Hawkpower",
+            "Name": "GenePoint Lab Generators",
+            "Probability": 60,
+            "StageName": "Id. Decision Makers"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef11"
+            },
+            "Amount": 30000,
+            "CloseDate": "2018-09-06",
+            "DeliveryInstallationStatus__c": "In progress",
+            "ForecastCategoryName": "Closed",
+            "IsPrivate": false,
+            "LeadSource": "Partner",
+            "Name": "GenePoint SLA",
+            "OrderNumber__c": "546512",
+            "Probability": 100,
+            "StageName": "Closed Won",
+            "Type": "Existing Customer - Upgrade"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef12"
+            },
+            "Amount": 85000,
+            "CloseDate": "2018-09-06",
+            "CurrentGenerators__c": "Honda",
+            "DeliveryInstallationStatus__c": "Completed",
+            "ForecastCategoryName": "Closed",
+            "IsPrivate": false,
+            "LeadSource": "Partner",
+            "MainCompetitors__c": "Honda",
+            "Name": "GenePoint Standby Generator",
+            "OrderNumber__c": "908676",
+            "Probability": 100,
+            "StageName": "Closed Won",
+            "TrackingNumber__c": "830150301420",
+            "Type": "New Customer"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef13"
+            },
+            "Amount": 210000,
+            "CloseDate": "2018-09-06",
+            "CurrentGenerators__c": "Fujitsu",
+            "DeliveryInstallationStatus__c": "Completed",
+            "ForecastCategoryName": "Closed",
+            "IsPrivate": false,
+            "LeadSource": "External Referral",
+            "MainCompetitors__c": "Caterpillar",
+            "Name": "Grand Hotels Emergency Generators",
+            "OrderNumber__c": "387624",
+            "Probability": 100,
+            "StageName": "Closed Won",
+            "TrackingNumber__c": "830150301360",
+            "Type": "New Customer"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef14"
+            },
+            "Amount": 350000,
+            "CloseDate": "2018-09-06",
+            "DeliveryInstallationStatus__c": "Completed",
+            "ForecastCategoryName": "Closed",
+            "IsPrivate": false,
+            "LeadSource": "External Referral",
+            "Name": "Grand Hotels Generator Installations",
+            "OrderNumber__c": "763546",
+            "Probability": 100,
+            "StageName": "Closed Won",
+            "Type": "Existing Customer - Upgrade"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef15"
+            },
+            "Amount": 250000,
+            "CloseDate": "2018-09-06",
+            "CurrentGenerators__c": "Honda",
+            "DeliveryInstallationStatus__c": "Yet to begin",
+            "ForecastCategoryName": "Pipeline",
+            "IsPrivate": false,
+            "LeadSource": "Employee Referral",
+            "MainCompetitors__c": "Honda",
+            "Name": "Grand Hotels Guest Portable Generators",
+            "Probability": 50,
+            "StageName": "Value Proposition",
+            "Type": "Existing Customer - Upgrade"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef16"
+            },
+            "Amount": 15000,
+            "CloseDate": "2018-09-06",
+            "CurrentGenerators__c": "John Deere",
+            "DeliveryInstallationStatus__c": "Yet to begin",
+            "ForecastCategoryName": "Pipeline",
+            "IsPrivate": false,
+            "MainCompetitors__c": "Fujitsu, Hawkpower",
+            "Name": "Grand Hotels Kitchen Generator",
+            "Probability": 60,
+            "StageName": "Id. Decision Makers",
+            "Type": "Existing Customer - Upgrade"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef17"
+            },
+            "Amount": 90000,
+            "CloseDate": "2018-09-06",
+            "DeliveryInstallationStatus__c": "In progress",
+            "ForecastCategoryName": "Closed",
+            "IsPrivate": false,
+            "LeadSource": "External Referral",
+            "Name": "Grand Hotels SLA",
+            "OrderNumber__c": "254676",
+            "Probability": 100,
+            "StageName": "Closed Won",
+            "Type": "Existing Customer - Upgrade"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef18"
+            },
+            "Amount": 100000,
+            "CloseDate": "2018-09-06",
+            "ForecastCategoryName": "Pipeline",
+            "IsPrivate": false,
+            "LeadSource": "Phone Inquiry",
+            "Name": "Pyramid Emergency Generators",
+            "Probability": 10,
+            "StageName": "Prospecting"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef19"
+            },
+            "Amount": 440000,
+            "CloseDate": "2018-09-06",
+            "CurrentGenerators__c": "Fujitsu",
+            "DeliveryInstallationStatus__c": "Completed",
+            "ForecastCategoryName": "Closed",
+            "IsPrivate": false,
+            "LeadSource": "External Referral",
+            "MainCompetitors__c": "Honda, Mitsubishi",
+            "Name": "United Oil Emergency Generators",
+            "OrderNumber__c": "847324",
+            "Probability": 100,
+            "StageName": "Closed Won",
+            "TrackingNumber__c": "830150301420",
+            "Type": "Existing Customer - Upgrade"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef20"
+            },
+            "Amount": 235000,
+            "CloseDate": "2018-09-06",
+            "DeliveryInstallationStatus__c": "In progress",
+            "ForecastCategoryName": "Closed",
+            "IsPrivate": false,
+            "LeadSource": "External Referral",
+            "Name": "United Oil Installations",
+            "OrderNumber__c": "554821",
+            "Probability": 100,
+            "StageName": "Closed Won",
+            "Type": "Existing Customer - Upgrade"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef21"
+            },
+            "Amount": 270000,
+            "CloseDate": "2018-09-06",
+            "DeliveryInstallationStatus__c": "Yet to begin",
+            "ForecastCategoryName": "Pipeline",
+            "IsPrivate": false,
+            "Name": "United Oil Installations",
+            "Probability": 90,
+            "StageName": "Negotiation/Review",
+            "Type": "Existing Customer - Upgrade"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef22"
+            },
+            "Amount": 270000,
+            "CloseDate": "2018-09-06",
+            "DeliveryInstallationStatus__c": "In progress",
+            "ForecastCategoryName": "Closed",
+            "IsPrivate": false,
+            "LeadSource": "Partner",
+            "Name": "United Oil Installations",
+            "OrderNumber__c": "427609",
+            "Probability": 100,
+            "StageName": "Closed Won",
+            "Type": "Existing Customer - Upgrade"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef23"
+            },
+            "Amount": 125000,
+            "CloseDate": "2018-09-06",
+            "CurrentGenerators__c": "Yamaha",
+            "ForecastCategoryName": "Pipeline",
+            "IsPrivate": false,
+            "MainCompetitors__c": "Yamaha",
+            "Name": "United Oil Office Portable Generators",
+            "Probability": 90,
+            "StageName": "Negotiation/Review",
+            "Type": "Existing Customer - Upgrade"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef24"
+            },
+            "Amount": 675000,
+            "CloseDate": "2018-09-06",
+            "CurrentGenerators__c": "Caterpillar",
+            "ForecastCategoryName": "Pipeline",
+            "IsPrivate": false,
+            "MainCompetitors__c": "Caterpillar, Mitsubishi, Hawkpower",
+            "Name": "United Oil Plant Standby Generators",
+            "Probability": 20,
+            "StageName": "Needs Analysis",
+            "Type": "Existing Customer - Upgrade"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef25"
+            },
+            "Amount": 915000,
+            "CloseDate": "2018-09-06",
+            "CurrentGenerators__c": "John Deere",
+            "DeliveryInstallationStatus__c": "Completed",
+            "ForecastCategoryName": "Closed",
+            "IsPrivate": false,
+            "LeadSource": "Partner",
+            "MainCompetitors__c": "John Deere, Mitsubishi, Hawkpower",
+            "Name": "United Oil Refinery Generators",
+            "OrderNumber__c": "744343",
+            "Probability": 100,
+            "StageName": "Closed Won",
+            "TrackingNumber__c": "830150301360",
+            "Type": "New Customer"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef26"
+            },
+            "Amount": 270000,
+            "CloseDate": "2018-09-06",
+            "CurrentGenerators__c": "Caterpillar",
+            "DeliveryInstallationStatus__c": "Yet to begin",
+            "ForecastCategoryName": "Pipeline",
+            "IsPrivate": false,
+            "MainCompetitors__c": "John Deere",
+            "Name": "United Oil Refinery Generators",
+            "Probability": 75,
+            "StageName": "Proposal/Price Quote",
+            "Type": "Existing Customer - Upgrade"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef27"
+            },
+            "Amount": 120000,
+            "CloseDate": "2018-09-06",
+            "DeliveryInstallationStatus__c": "In progress",
+            "ForecastCategoryName": "Closed",
+            "IsPrivate": false,
+            "LeadSource": "Partner",
+            "Name": "United Oil SLA",
+            "OrderNumber__c": "926363",
+            "Probability": 100,
+            "StageName": "Closed Won",
+            "Type": "Existing Customer - Upgrade"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef28"
+            },
+            "Amount": 120000,
+            "CloseDate": "2018-09-06",
+            "CurrentGenerators__c": "John Deere",
+            "ForecastCategoryName": "Closed",
+            "IsPrivate": false,
+            "LeadSource": "External Referral",
+            "MainCompetitors__c": "John Deere, Mitsubishi, Hawkpower",
+            "Name": "United Oil Standby Generators",
+            "OrderNumber__c": "525476",
+            "Probability": 100,
+            "StageName": "Closed Won",
+            "TrackingNumber__c": "830150301360",
+            "Type": "Existing Customer - Upgrade"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef29"
+            },
+            "Amount": 100000,
+            "CloseDate": "2018-09-06",
+            "DeliveryInstallationStatus__c": "Yet to begin",
+            "ForecastCategoryName": "Pipeline",
+            "IsPrivate": false,
+            "LeadSource": "Employee Referral",
+            "Name": "University of AZ Installations",
+            "Probability": 75,
+            "StageName": "Proposal/Price Quote",
+            "Type": "Existing Customer - Upgrade"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef30"
+            },
+            "Amount": 50000,
+            "CloseDate": "2018-09-06",
+            "CurrentGenerators__c": "Mitsubishi",
+            "DeliveryInstallationStatus__c": "Completed",
+            "ForecastCategoryName": "Closed",
+            "IsPrivate": false,
+            "LeadSource": "Public Relations",
+            "MainCompetitors__c": "Honda, Mitsubishi",
+            "Name": "University of AZ Portable Generators",
+            "OrderNumber__c": "768934",
+            "Probability": 100,
+            "StageName": "Closed Won",
+            "TrackingNumber__c": "830150301360",
+            "Type": "New Customer"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef31"
+            },
+            "Amount": 90000,
+            "CloseDate": "2018-09-06",
+            "DeliveryInstallationStatus__c": "In progress",
+            "ForecastCategoryName": "Closed",
+            "IsPrivate": false,
+            "LeadSource": "Public Relations",
+            "Name": "University of AZ SLA",
+            "OrderNumber__c": "654985",
+            "Probability": 100,
+            "StageName": "Closed Won",
+            "Type": "Existing Customer - Upgrade"
+        }
+    ]
+}

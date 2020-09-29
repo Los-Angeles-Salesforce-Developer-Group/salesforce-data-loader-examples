@@ -1,0 +1,9 @@
+SELECT
+    id, name, accountnumber, accountsource, active__c, annualrevenue, billingcity, billingcountry, billinggeocodeaccuracy,
+    billinglatitude, billinglongitude, billingpostalcode, billingstate, billingstreet, cleanstatus, customerpriority__c,
+    dandbcompanyid, description, dunsnumber, fax, industry, jigsaw, naicscode, naicsdesc, numberofemployees, numberoflocations__c,
+    ownerid, ownership, parentid, phone, rating, shippingcity, shippingcountry, shippinggeocodeaccuracy, shippinglatitude,
+    shippinglongitude, shippingpostalcode, shippingstate, shippingstreet, sic, sicdesc, site, sla__c, slaexpirationdate__c,
+    slaserialnumber__c, tickersymbol, tradestyle, type, upsellopportunity__c, website, yearstarted
+FROM Account
+ORDER BY Name ASC
