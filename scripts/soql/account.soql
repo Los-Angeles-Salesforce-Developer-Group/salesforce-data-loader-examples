@@ -1,9 +1,9 @@
 SELECT
-    id, name, accountnumber, accountsource, active__c, annualrevenue, billingcity, billingcountry, billinggeocodeaccuracy,
-    billinglatitude, billinglongitude, billingpostalcode, billingstate, billingstreet, cleanstatus, customerpriority__c,
-    dandbcompanyid, description, dunsnumber, fax, industry, jigsaw, naicscode, naicsdesc, numberofemployees, numberoflocations__c,
-    ownerid, ownership, parentid, phone, rating, shippingcity, shippingcountry, shippinggeocodeaccuracy, shippinglatitude,
-    shippinglongitude, shippingpostalcode, shippingstate, shippingstreet, sic, sicdesc, site, sla__c, slaexpirationdate__c,
-    slaserialnumber__c, tickersymbol, tradestyle, type, upsellopportunity__c, website, yearstarted
+    Id, Name, AccountNumber, AccountSource, Active__c, Annualrevenue, BillingCity, BillingCountry, BillingGeocodeAccuracy,
+    BillingLatitude, BillingLongitude, BillingPostalCode, BillingState, BillingStreet, CleanStatus, CustomerPriority__c,
+    DandBCompanyId, Description, DunsNumber, Fax, Industry, Jigsaw, NaicsCode, NaicsDesc, NumberOfEmployees, NumberOfLocations__c,
+    OwnerId, Ownership, ParentId, Phone, Rating, ShippingCity, ShippingCountry, ShippingGeocodeAccuracy, ShippingLatitude,
+    ShippingLongitude, ShippingPostalCode, ShippingState, ShippingStreet, Sic, SicDesc, Site, Sla__c, SlaExpirationDate__c,
+    SlaSerialNumber__c, TickerSymbol, TradeStyle, Type, UpsellOpportunity__c, Website, YearStarted
 FROM Account
 ORDER BY Name ASC
